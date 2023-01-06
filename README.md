@@ -1,16 +1,42 @@
-### Hi there 👋
+### Hi, I am Erick Douglas !👋
+### -SOCIAL NETWORK-
+[![Linkedin](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/erick_ol1veira?igshid=YWJhMjlhZTc=)
 
-<!--
-**Haziir/Haziir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### -WORK CONTACTS-
+[![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-oliveira-210714197/)
 
-Here are some ideas to get you started:
+### -OTHERS-
+[![Linkedin](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199376430244/)
+[![Linkedin](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### * SKILLS *
+[![Linkedin](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+
+[![Linkedin](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![Linkedin](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+
+[![Linkedin](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+
+[![Linkedin](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### -
+![Haziir GitHub stats](https://github-readme-stats.vercel.app/api?username=Haziir&show_icons=true&theme=radical)
