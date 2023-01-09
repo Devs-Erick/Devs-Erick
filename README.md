@@ -11,7 +11,7 @@
 [![Linkedin](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199376430244/)
 [![Linkedin](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
-### * SKILLS *
+### * TECHNOLOGY *
 [![Linkedin](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 
@@ -36,7 +36,4 @@
 
 
 
-
-
-### -
 ![Devs-Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=Devs-Erick&show_icons=true&theme=radical)
