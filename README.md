@@ -39,4 +39,4 @@
 
 
 ### -
-![Haziir GitHub stats](https://github-readme-stats.vercel.app/api?username=Haziir&show_icons=true&theme=radical)
+![Devs-Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=Devs-Erick&show_icons=true&theme=radical)
